@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "openInjMoldSim.C": "cpp",
+        "prghPermeableAlphaTotalPressureFvPatchScalarField.C": "cpp",
+        "gravityMeshObject.C": "cpp",
+        "pressurePermeableAlphaInletOutletVelocityFvPatchVectorField.C": "cpp",
+        "PatchFunction1.C": "cpp",
+        "coordinateLabelScaling.C": "cpp",
+        "totalPressureFvPatchScalarField.C": "cpp"
+    }
+}
