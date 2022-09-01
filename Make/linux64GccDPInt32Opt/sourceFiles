@@ -1,0 +1,9 @@
+SOURCE = \
+mojThermos.C \
+mojTwoPhaseMixtureThermo/mojTwoPhaseMixtureThermo.C \
+crossWlfInSorodno/mojRhoThermo.C \
+crossWlfInSorodno/mojFluidThermo.C \
+crossWlfInSorodno/mojBasicThermo.C \
+mojTwoPhaseMixtureThermo/mojPsiThermo.C \
+openInjMoldSim.C \
+mojTurbulentFluidThermoModel/mojTurbulentFluidThermoModels.C 

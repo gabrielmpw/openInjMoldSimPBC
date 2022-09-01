@@ -1,0 +1,5 @@
+SOURCE = \
+forces/mojForces.C \
+forceCoeffs/forceCoeffs.C \
+../crossWlfInSorodno/mojBasicThermo.C \
+../crossWlfInSorodno/mojFluidThermo.C 

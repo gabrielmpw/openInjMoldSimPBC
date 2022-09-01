@@ -1,0 +1,3 @@
+SOURCE = \
+pressurePermeableAlphaInletOutletVelocity/pressurePermeableAlphaInletOutletVelocityFvPatchVectorField.C \
+prghPermeableAlphaTotalPressure/prghPermeableAlphaTotalPressureFvPatchScalarField.C 
